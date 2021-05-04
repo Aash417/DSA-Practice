@@ -6,7 +6,7 @@ public class SumOfDigits {
     }
 
     public static int sumOfD(int n) {
-        if (n == 0) {
+        if (n == 0) { 
             return 0;
         }
         int lastd = n % 10;
