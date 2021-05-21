@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MoveAllZerosToEnd",
+            "request": "launch",
+            "mainClass": "arrays.MoveAllZerosToEnd",
+            "projectName": "DSA-Practice_ecad1c2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicatesFromSortedArray",
+            "request": "launch",
+            "mainClass": "arrays.RemoveDuplicatesFromSortedArray",
+            "projectName": "DSA-Practice_ecad1c2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseAnArray",
+            "request": "launch",
+            "mainClass": "arrays.ReverseAnArray",
+            "projectName": "DSA-Practice_ecad1c2f"
+        },
+        {
+            "type": "java",
             "name": "Launch CheckForSortedArray",
             "request": "launch",
             "mainClass": "arrays.CheckForSortedArray",
