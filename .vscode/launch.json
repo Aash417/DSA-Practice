@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CheckForSortedArray",
+            "request": "launch",
+            "mainClass": "arrays.CheckForSortedArray",
+            "projectName": "DSA-Practice_ecad1c2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SecondLargestElement",
+            "request": "launch",
+            "mainClass": "arrays.SecondLargestElement",
+            "projectName": "DSA-Practice_ecad1c2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestElementInArray",
+            "request": "launch",
+            "mainClass": "arrays.LargestElementInArray",
+            "projectName": "DSA-Practice_ecad1c2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperationOnArray",
+            "request": "launch",
+            "mainClass": "arrays.OperationOnArray",
+            "projectName": "DSA-Practice_ecad1c2f"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayL",
             "request": "launch",
             "mainClass": "arrays.ArrayL",
