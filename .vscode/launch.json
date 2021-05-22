@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LeftRotateByD",
+            "request": "launch",
+            "mainClass": "arrays.LeftRotateByD",
+            "projectName": "DSA-Practice_ecad1c2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeftRotateAnArray",
+            "request": "launch",
+            "mainClass": "arrays.LeftRotateAnArray",
+            "projectName": "DSA-Practice_ecad1c2f"
+        },
+        {
+            "type": "java",
             "name": "Launch MoveAllZerosToEnd",
             "request": "launch",
             "mainClass": "arrays.MoveAllZerosToEnd",
