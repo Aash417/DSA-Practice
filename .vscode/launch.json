@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LeaderInAnArray",
+            "request": "launch",
+            "mainClass": "arrays.LeaderInAnArray",
+            "projectName": "DSA-Practice_ecad1c2f"
+        },
+        {
+            "type": "java",
             "name": "Launch LeftRotateByD",
             "request": "launch",
             "mainClass": "arrays.LeftRotateByD",
